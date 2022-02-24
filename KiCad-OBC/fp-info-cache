@@ -1,4 +1,4 @@
-20117638000486542
+20117638004406282
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60221,19 +60221,19 @@ Raspberry Pi board model B+, full outline with position of big connectors &amp; 
 40
 40
 OBC
-HTS221TR
+PQFN24P43_350X300X102L35X23N
 
 
 0
-6
-6
+24
+24
 OBC
-LSM9DS1TR
+XDCR_HTS221
 
 
 0
-24
-24
+6
+6
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
