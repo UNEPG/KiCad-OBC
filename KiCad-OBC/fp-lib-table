@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "OBC")(type "KiCad")(uri "${KIPRJMOD}/OBC.pretty")(options "")(descr ""))
-)
