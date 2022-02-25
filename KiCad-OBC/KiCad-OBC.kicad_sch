@@ -314,6 +314,8 @@
     (uuid f0b7f140-6667-44f5-a73a-11f6423c8f34)
   )
 
+  (no_connect (at 83.82 68.58) (uuid 1e275933-5be0-491f-88b9-c7c31ea8dbc6))
+  (no_connect (at 88.9 91.44) (uuid 1e275933-5be0-491f-88b9-c7c31ea8dbc6))
   (no_connect (at 83.82 73.66) (uuid 2babf0b2-4f51-471c-886e-e5ff6f4f1378))
   (no_connect (at 38.1 68.58) (uuid 2babf0b2-4f51-471c-886e-e5ff6f4f1379))
   (no_connect (at 38.1 63.5) (uuid 2babf0b2-4f51-471c-886e-e5ff6f4f137a))
