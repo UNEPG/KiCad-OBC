@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "SDS")(type "KiCad")(uri "D:/Downloads/Compressed/LSM9DS1/SDS.kicad_sym")(options "")(descr ""))
-  (lib (name "OBC")(type "KiCad")(uri "${KIPRJMOD}/OBC.kicad_sym")(options "")(descr ""))
-)
