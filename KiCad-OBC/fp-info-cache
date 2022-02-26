@@ -1,4 +1,4 @@
-20117638414157962
+20119284274839367
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56517,6 +56517,13 @@ LPS25H
 0
 10
 10
+KiCad-OBC
+RPI-ZERO
+Raspberry Pi board model B+, full outline with position of big connectors &amp; drill holes
+
+0
+40
+40
 KiCad-OBC
 SDS011
 

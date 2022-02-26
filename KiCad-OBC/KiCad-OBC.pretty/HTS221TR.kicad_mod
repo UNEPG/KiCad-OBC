@@ -1,6 +1,6 @@
 (footprint "HTS221TR" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
+  (tedit 6219D567)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -197,4 +197,9 @@
   (pad "4" smd rect (at 0.762 0.499999 90) (size 0.451612 0.401574) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa02e544-13f5-4cf8-a5f4-3e6cda006090))
   (pad "5" smd rect (at 0.762 -0.499999 90) (size 0.451612 0.401574) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6a44418c-7bb4-4e99-8836-57f153c19721))
   (pad "6" smd rect (at 0 -0.762) (size 0.451612 0.401574) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0147f16a-c952-4891-8f53-a9fb8cddeb8d))
+  (model "C:/Users/admin/Desktop/KiCad-OBC/Parts/HTS221'/HLGA-6L_2X2_STM.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
